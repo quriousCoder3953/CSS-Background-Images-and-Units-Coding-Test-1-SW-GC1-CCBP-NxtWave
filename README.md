@@ -1,7 +1,6 @@
 # CSS-Background-Images-and-Units-Coding-Test-1-SW-GC1-CCBP-NxtWave
 
-The goal of this coding exam is to quickly get you off the ground with CSS Background Images, Width, and Height properties.
-
+The goal of this coding exam is to quickly get you off the ground with CSS Background Images, Height, and vh unit.
 
 Desired Output: -
 
